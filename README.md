@@ -3,10 +3,10 @@
 - Adapter: Link incompatible types/interfaces.
 - Bridge: Separates abstract from implementation.
 - Composite: Defines hierachical, recursive tree structures.
-- Decorator
-- Facade
-- Flyweight
-- Proxy
+- Decorator:
+- Facade:
+- Flyweight:
+- Proxy:
 <br>
 <b>Creational Patterns</b>:<br>
 
