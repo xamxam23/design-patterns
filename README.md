@@ -1,7 +1,7 @@
 # design-patterns
 <b>Structural Patterns</b>:<br> 
-- Adapter
-- Bridge
+- Adapter: link incompatible types/interfaces
+- Bridge: Separates abstract from implementation.
 - Composite
 - Decorator
 - Facade
