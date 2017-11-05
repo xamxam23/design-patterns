@@ -1,5 +1,5 @@
 # design-patterns
-Structural Patterns:<br>
+# Structural Patterns:<br>
 
 Creational Patterns:<br>
 
