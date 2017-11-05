@@ -1,5 +1,5 @@
 # design-patterns
-<b>Structural Patterns</b>:<br> 
+<b>Structural Patterns</b>:
 - Adapter: Link incompatible types/interfaces.
 - Bridge: Separates abstract from implementation.
 - Composite: Defines hierachical, recursive tree structures.
