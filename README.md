@@ -7,6 +7,7 @@
 - Facade
 - Flyweight
 - Proxy
+<br>
 <b>Creational Patterns</b>:<br>
 
 <b>Behavioral Patterns</b>:<br>
