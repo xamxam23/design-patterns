@@ -1,8 +1,8 @@
 # design-patterns
 <b>Structural Patterns</b>:<br> 
-- Adapter: link incompatible types/interfaces
+- Adapter: Link incompatible types/interfaces.
 - Bridge: Separates abstract from implementation.
-- Composite
+- Composite: Defines hierachical, recursive tree structures.
 - Decorator
 - Facade
 - Flyweight
